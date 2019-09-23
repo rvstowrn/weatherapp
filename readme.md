@@ -1,3 +1,3 @@
-##WEATHER APPLICATION
+## WEATHER APPLICATION
 
-###Using open weather api
+### Using open weather api
